@@ -11,11 +11,17 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--pale-blue);
-    color: var(--desaturated-blue);
 }
 
 
 .card {
     width: 450px;
     background-color: white;
+    color: var(--desaturated-blue);
+}
+
+.title {
+    color: var(--dark-blue);
+    font-weight: 900;
+    font-size: 32px;
 }
