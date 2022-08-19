@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:ital,wght@0,500;0,900;1,700&display=swap');
+
 :root {
     --pale-blue: hsl(225, 100%, 94%);
     --bright-blue: hsl(245, 75%, 52%);
@@ -17,6 +19,8 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     background-color: var(--pale-blue);
+    font-family: "Red Hat Display", sans-serif;
+    font-size: 16px;
 }
 
 
@@ -44,3 +48,4 @@ body {
 .order-description {
     line-height: 25px;
 }
+
