@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Solution](.images/order-summary-component.png)
+<img src="images/order-summary-component.png">
 
 
 ### Links
@@ -43,4 +43,5 @@ Having no prior knowledge of HTML and CSS, this project helped me understand the
 
 ## Acknowledgments
 
-This project served as a great introduction to HTML and CSS for me. Many thanks to freecodecamp and @Madisonkanna for the wonderful tutorial. [](https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/) 
+This project served as a great introduction to HTML and CSS for me. Many thanks to freecodecamp and @Madisonkanna for the wonderful tutorial.
+[Tutorial](https://www.freecodecamp.org/news/learn-html-and-css-order-summary-component/) 
