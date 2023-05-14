@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github-repo](https://github.com/Ebimore/order-summary-component)
+- Solution URL: [Vercel](https://order-summary-component-omega-sand.vercel.app/)
 
 
 ## My process
